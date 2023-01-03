@@ -1,7 +1,17 @@
 h1 {
     color: rgb(255, 0, 0);
     background: rgb(228, 226, 219);
-}
-img {
-    b
-} 
+    /* width: 50%; */
+    /* margin: auto; */
+    border: 50%;
+    padding: 5px;
+   }
+center {
+    background-color: rgb(153, 170, 170);
+    background-image: url(Dead_bodies_of_Bengali_intellectuals\,_14_December_1971.jpg);
+    background-size: cover;
+    } 
+ p {
+        text color: 
+        text-align: justify;
+    }
